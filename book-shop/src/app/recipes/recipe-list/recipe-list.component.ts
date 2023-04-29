@@ -13,6 +13,11 @@ export class RecipeListComponent implements OnInit {
       'egg from chicken',
       'https://static01.nyt.com/images/2019/02/05/world/05egg/15xp-egg-promo-superJumbo-v2.jpg'
     ),
+    new Recipe(
+      'egg',
+      'egg from chicken',
+      'https://static01.nyt.com/images/2019/02/05/world/05egg/15xp-egg-promo-superJumbo-v2.jpg'
+    ),
   ];
 
   constructor() {}
